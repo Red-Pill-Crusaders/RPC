@@ -18,13 +18,12 @@ footer {
     width: 100%;
     display: block;
     text-align: center;
-    font-size: 17.5px;
+    font-size: 10px;
     color: white;
 	background-color:black;
     line-height: 75px;
     position: relative;
     bottom: 0;
-	padding-top: 50px;
 }
 div.main {
     width: 400px;
