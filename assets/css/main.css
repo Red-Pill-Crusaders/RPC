@@ -19,7 +19,7 @@ footer {
     display: block;
     text-align: center;
     font-size: 17.5px;
-    color: black;
+    color: white;
     line-height: 75px;
     position: absolute;
     bottom: 0;
@@ -36,7 +36,7 @@ div.main {
     margin-top: calc(((100vh - 565px) / 2));
 }
 div.main section.photo {
-    height: 55px;
+    height: 75px;
 }
 div.main section.photo img {
     height: 125px;
@@ -92,8 +92,8 @@ div.main section.links a:hover svg path {
         margin-bottom: 0;
     }
     footer {
-        position: relative;
-		background-color: white;
-		border-radius: 50%;
+        position: fixed;
+		background-color: black;
+		
     }
 }
