@@ -21,7 +21,7 @@ footer {
     color: white;
 	background-color:black;
     line-height: 75px;
-    position: relative;
+    position: fixed;
     bottom: 0;
 }
 div.main {
