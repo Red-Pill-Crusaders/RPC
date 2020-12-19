@@ -8,7 +8,7 @@ body {
     font-weight: 300;
     letter-spacing: 4px;
     text-align: center;
-    color: #414f57;
+    color: #white;
     background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(../img/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
