@@ -33,8 +33,7 @@ div.main {
     padding: 75px 25px;
     display: inline-block;
     height: 520px;
-    margin-top: calc(((100vh - 565px) / 2));
-	padding-top: 100px;
+    margin-top: calc(((100vh - 565px) / 1));
 }
 div.main section.photo {
     height: 75px;
