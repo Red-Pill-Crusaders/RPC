@@ -34,7 +34,6 @@ div.main {
     padding: 75px 25px;
     display: inline-block;
     height: 100%;
-    margin-top: calc(((100vh - 565px) / 2));
 }
 div.main section.photo {
     height: 75px;
