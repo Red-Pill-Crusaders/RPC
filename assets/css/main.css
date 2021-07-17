@@ -97,3 +97,14 @@ div.main section.links a:hover svg path {
 		
     }
 }
+.Button_To_Statements {
+	display: inline-block;
+	padding: 15px 30px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	border-radius: 5px;
+	outline: none;
+	margin-bottom: 24px;
+}
